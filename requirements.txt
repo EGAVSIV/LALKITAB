@@ -1,5 +1,78 @@
+# =========================
+# CORE ASTROLOGY
+# =========================
+
 pyswisseph
+flatlib
+
+# =========================
+# DATA PROCESSING
+# =========================
+
 pandas
 numpy
+
+# =========================
+# STREAMLIT WEB APP
+# =========================
+
+streamlit
+
+# =========================
+# LOCATION SERVICES
+# =========================
+
+geopy
+timezonefinder
+pytz
+
+# =========================
+# PDF GENERATION
+# =========================
+
 reportlab
-tk
+
+# =========================
+# CHARTS & VISUALIZATION
+# =========================
+
+plotly
+matplotlib
+
+# =========================
+# API SERVER
+# =========================
+
+fastapi
+uvicorn
+
+# =========================
+# TELEGRAM BOT
+# =========================
+
+python-telegram-bot
+
+# =========================
+# AI / MACHINE LEARNING
+# =========================
+
+scikit-learn
+
+# =========================
+# OPTIONAL FUTURE AI
+# =========================
+
+openai
+langchain
+
+# =========================
+# DATABASE
+# =========================
+
+sqlalchemy
+
+# =========================
+# UTILITIES
+# =========================
+
+python-dateutil
