@@ -1,0 +1,65 @@
+planet,house,state,prediction,severity
+Sun,1,strong,Strong leadership personality,8
+Sun,5,strong,Creative intelligence and authority,8
+Sun,10,strong,Government and career success,9
+Sun,7,weak,Ego issues in relationships,7
+Sun,12,debilitated,Lack of confidence and recognition struggles,8
+Sun,8,combust,Internal ego pressure and hidden frustration,9
+
+Moon,1,strong,Emotional intelligence and intuition,8
+Moon,4,strong,Mental peace and happiness,9
+Moon,8,weak,Emotional instability and stress,9
+Moon,12,debilitated,Sleep issues and emotional isolation,8
+Moon,6,combust,Mental restlessness and anxiety,8
+
+Mars,1,strong,Courage and technical power,9
+Mars,5,strong,Competitive intelligence and leadership,8
+Mars,10,strong,Engineering and technical career success,9
+Mars,4,weak,Property disputes and emotional aggression,8
+Mars,7,combust,Marriage conflicts due to anger,9
+Mars,8,combust,Hidden anger and sudden aggression,9
+Mars,12,debilitated,Weak confidence and internal frustration,8
+
+Mercury,1,strong,Excellent communication and business skills,8
+Mercury,5,strong,Strong mathematics and trading ability,9
+Mercury,10,strong,Business and trading success,9
+Mercury,6,weak,Nervous stress and confusion,7
+Mercury,8,combust,Overthinking and mental pressure,8
+Mercury,12,debilitated,Communication issues and anxiety,8
+
+Jupiter,1,strong,Wisdom and ethical personality,9
+Jupiter,2,strong,Financial prosperity and family blessings,9
+Jupiter,9,strong,Strong fortune and guru blessings,10
+Jupiter,10,strong,Teaching and advisory career success,9
+Jupiter,6,weak,Financial judgment issues,7
+Jupiter,8,combust,Suppressed wisdom and guidance issues,8
+Jupiter,12,debilitated,Loss of direction and spiritual confusion,8
+
+Venus,1,strong,Attractive personality and charm,8
+Venus,4,strong,Comfort and luxury at home,9
+Venus,7,strong,Harmony in marriage and love,10
+Venus,12,strong,Pleasures and spiritual love,8
+Venus,6,weak,Relationship stress and luxury expenses,7
+Venus,8,combust,Relationship dissatisfaction and overindulgence,8
+Venus,1,debilitated,Low relationship confidence,8
+
+Saturn,1,strong,Disciplined personality and delayed success,9
+Saturn,6,strong,Victory through hard work and discipline,9
+Saturn,10,strong,Massive long-term career success,10
+Saturn,4,weak,Domestic burdens and emotional heaviness,7
+Saturn,8,combust,Karmic pressure and mental heaviness,9
+Saturn,12,debilitated,Isolation and fear-based thinking,8
+
+Rahu,1,strong,Unconventional personality and ambition,8
+Rahu,5,strong,Speculation and unusual intelligence,8
+Rahu,10,strong,Technology and foreign career success,10
+Rahu,8,strong,Occult and sudden transformations,9
+Rahu,6,weak,Hidden enemies and confusion,7
+Rahu,12,debilitated,Isolation and addiction tendencies,9
+
+Ketu,1,strong,Spiritual personality and detachment,8
+Ketu,5,strong,Spiritual intelligence and intuition,8
+Ketu,8,strong,Mysticism and occult mastery,10
+Ketu,12,strong,Moksha and deep spirituality,10
+Ketu,6,weak,Confusion and internal stress,7
+Ketu,2,debilitated,Speech and family detachment,8
