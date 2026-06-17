@@ -17,4 +17,5 @@ openai
 langchain
 sqlalchemy
 python-dateutil
+swisseph
 pyswisseph
