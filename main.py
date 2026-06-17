@@ -1,5 +1,6 @@
 import streamlit as st
-
+import swisseph as swe
+print(swe.version)
 from engine.astrology_engine import analyze_chart
 from engine.location_engine import get_location_data
 
