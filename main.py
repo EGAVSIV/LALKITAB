@@ -1,36 +1,18 @@
 import sys
-st.write(sys.version)
 import streamlit as st
 
+st.set_page_config(page_title="Debug")
 
-
-st.write("Step 1")
+st.write("Python Version:")
+st.code(sys.version)
 
 try:
     import swisseph as swe
-    st.success("SwissEph OK")
+    st.success("SwissEph Imported")
     st.write(swe.version)
+
 except Exception as e:
     st.error(f"SwissEph Error: {e}")
-    st.stop()
-
-st.write("Step 2")
-
-try:
-    from engine.astrology_engine import analyze_chart
-    st.success("Astrology Engine OK")
-except Exception as e:
-    st.error(f"Astrology Engine Error: {e}")
-    st.stop()
-
-st.write("Step 3")
-
-try:
-    from engine.location_engine import get_location_data
-    st.success("Location Engine OK")
-except Exception as e:
-    st.error(f"Location Engine Error: {e}")
-    st.stop()
 
 # =========================
 # PAGE CONFIG
