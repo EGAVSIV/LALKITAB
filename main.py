@@ -1,10 +1,8 @@
-
 try:
     import swisseph as swe
     print("SwissEph Loaded")
-    print(swe.version)
 except Exception as e:
-    print("SwissEph Error:", e)
+    st.error(f"SwissEph Import Error: {e}")
     raise
 from engine.astrology_engine import analyze_chart
 from engine.location_engine import get_location_data
