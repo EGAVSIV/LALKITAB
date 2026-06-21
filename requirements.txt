@@ -1,4 +1,4 @@
-pyswisseph==2.10.3.2
+pyswisseph>=2.10.3.3
 flatlib
 pandas
 numpy
