@@ -1,6 +1,24 @@
 import sys
 import streamlit as st
 
+# =========================
+# IMPORT ENGINES
+# =========================
+
+try:
+    from engine.astrology_engine import analyze_chart
+    st.success("Astrology Engine Imported")
+except Exception as e:
+    st.error(f"Astrology Engine Import Error: {e}")
+    st.stop()
+
+try:
+    from engine.location_engine import get_location_data
+    st.success("Location Engine Imported")
+except Exception as e:
+    st.error(f"Location Engine Import Error: {e}")
+    st.stop()
+
 st.set_page_config(page_title="Debug")
 
 st.write("Python Version:")
