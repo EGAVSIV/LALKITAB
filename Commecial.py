@@ -13,7 +13,7 @@ st.set_page_config(
 # CHANGE THESE
 # ==========================
 
-RAZORPAY_URL = "https://rzp.io/rzp/dD6MMJb"
+RAZORPAY_URL = "https://rzp.io/rzp/u0M4uv31"
 
 KUNDALI_APP_URL = "https://lalkitab.streamlit.app"
 
