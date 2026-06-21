@@ -21,9 +21,10 @@
 #pyswisseph
 
 streamlit
+pyswisseph==2.10.3.2
 pandas
 numpy
 geopy
 timezonefinder
 pytz
-pyswisseph
+#pyswisseph
