@@ -1,4 +1,4 @@
-pyswisseph
+
 flatlib
 pandas
 numpy
@@ -18,4 +18,6 @@ langchain
 sqlalchemy
 python-dateutil
 swisseph
-pyswisseph
+
+pyswisseph==2.10.3.2
+#pyswisseph
